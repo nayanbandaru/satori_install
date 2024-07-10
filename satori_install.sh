@@ -46,3 +46,5 @@ bash install.sh
 bash install_service.sh
 
 echo "Installation of Docker and Satori completed successfully."
+
+exit
